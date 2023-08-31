@@ -1,10 +1,9 @@
 {
   "name": "@iankco/kaco-react-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Muh Hardiansah <hardiansah7101@gmail.com>",
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17 || ^18"
   },
   "main": "index.js",
   "devDependencies": {},
