@@ -1,5 +1,5 @@
 {
-  "name": "kaco-react-form",
+  "name": "@kaco/kaco-react-form",
   "version": "1.0.0",
   "author": "Muh Hardiansah <hardiansah7101@gmail.com>",
   "dependencies": {
@@ -12,6 +12,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://github.com/hardiansah7101/kaco-react-form",
+  "bugs": {
+    "url": "https://github.com/hardiansah7101/kaco-react-form/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardiansah7101/kaco-react-form.git"
+  },
   "description": ""
 }
