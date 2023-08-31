@@ -1,0 +1,17 @@
+{
+  "name": "kaco-react-form",
+  "version": "1.0.0",
+  "author": "Muh Hardiansah <hardiansah7101@gmail.com>",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "description": ""
+}
